@@ -1,13 +1,29 @@
 Files:
 -----------
 challenge.py: main file
+
+
+
+
 test.py: test file
+
+
+
+
 Clean_Favorable_Recipients.csv: csv file with no duplicates information from Favorable_Recipients.csv
+
+
+
+
 Favorable_Recipients.csv: The Information of Recipients and Pickup
 
 How to run:
 -----------
 for main file: python3 challenge.py
+
+
+
+
 for test file: python3 test.py
 
 
